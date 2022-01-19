@@ -20,6 +20,6 @@ O projeto tem como proposta um programa de uma loja de roupas e acessórios.
 [Flyer da Outlet Generation!](https://imgur.com/a/fD9pOYU.jpeg)</p>
 [Vídeo do programa funcionando no YouTube!](https://youtu.be/aXUpAyUtR5s)</p>
 [Link para o Fluxograma!](https://miro.com/app/board/uXjVOaUD3CQ=/)</p>
-[Link desse GitHub!](https://github.com/alexamorim17/Generation-Projeto-2)</p>
+[Link desse Repositório!](https://github.com/alexamorim17/Generation-Projeto-2)</p>
 ------------------------
 <b>Obrigado a todes!<b/>
